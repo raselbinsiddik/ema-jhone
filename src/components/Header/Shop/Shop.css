@@ -8,9 +8,3 @@
     grid-template-columns: repeat(3, 1fr);
     gap:40px;
 }
-.cart-container{
-    background-color: orange;
-    margin-top: 20px;
-    text-align: center;
-    height: 800px;
-}
